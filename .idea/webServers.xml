@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="8b3df8a9-9303-4f60-ad15-f44c8ffb2783" name="Irpay.net" url="http://ftp.irpay.net">
+        <fileTransfer host="ftp.irpay.net" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="661315a4-93e1-440f-8af6-2bb792cbdcf2" name="radiohast" url="http://ftp.rhast.ir">
+        <fileTransfer host="ftp.rhast.ir" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
